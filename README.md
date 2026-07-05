@@ -93,3 +93,5 @@ Final Year Project – CS6P05NI
 - Mobile app integration for real-time display and logging
 
 ---
+
+P.S if you need the full report you can email me at rikeshmandal26@gmail.com
